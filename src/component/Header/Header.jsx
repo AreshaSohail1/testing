@@ -1,5 +1,6 @@
+import { Link } from "react-router-dom";
 import "./Header.css";
-import  Link from "react-router-dom";
+
   
   const Header=() => {
     return (
@@ -12,7 +13,7 @@ import  Link from "react-router-dom";
             </div>
           <div className="flex align-item">
             <ul className=" nav list-style-none flex justify-between gap-20">
-            <li><Link to="/Home">Home</Link></li>
+            <li><Link to="/">Home</Link></li>
                 <li><Link to="/Men">Men's Fashion</Link></li>
                 <li><Link to="/Women">Women Fashion</Link></li>
                 <li><Link to="/Badding">Bedding</Link></li> 
