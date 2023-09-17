@@ -1,0 +1,28 @@
+
+.margin-left{
+    margin:0 0 0 270px;
+    padding-top: 50px;
+    
+}
+.color{
+color: #7e7e7e;
+font-weight: 600;
+
+}
+ .padding{
+    padding: 0 10px;
+} 
+
+.word{
+    word-spacing: 5px ;
+}
+.btn{
+    background-color: blueviolet;
+    padding: 10px 20px ;
+    color:white;
+    border: none;
+    border-radius: 30px;
+    font-size: 12px;
+    position: relative;
+    top: 15px;
+}

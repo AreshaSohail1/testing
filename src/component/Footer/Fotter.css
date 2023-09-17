@@ -1,0 +1,9 @@
+.word{
+        word-spacing: 6px;
+    padding-top: 50px;
+    color: #7e7e7e;
+    cursor: pointer;
+}
+.pd{
+    padding-top: 30px;
+}

@@ -1,0 +1,22 @@
+.banner{
+    background-color:rgb(255, 244, 253);
+    padding-top: 50px;   
+}
+.banner-inner{
+   max-width: 512px;
+}
+.banner-btn{
+     background-color: #ee7455;
+    padding: 10px 20px ;
+     color:white;
+     border: none;
+     border-radius: 30px;
+     font-size: 12px;
+     position: relative;
+     top: 15px;
+}
+.banner-image img{
+    position: relative;
+    top: 80px;
+    
+}

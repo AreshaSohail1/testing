@@ -1,0 +1,31 @@
+.size{
+    font-size:  25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+}
+.inner{
+    padding-top: 50px;
+}
+.bann{
+    padding-top: 30px;
+}
+.box5{
+    width: 400px;
+    height: 170px;
+    background-color: white;
+    box-shadow: 2px 3px 7px 0px #888888;
+}
+.margin{
+    
+    margin-left: 2%;
+}
+.some{
+    padding-top: 40px;
+    word-spacing: 6px;
+    line-height: 40px;
+    font-size: 13px
+}
+.some p{
+    color: #7e7e7e;
+    font-size: 15px;
+}
