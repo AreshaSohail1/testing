@@ -16,6 +16,7 @@ import  Link from "react-router-dom";
                 <li><Link to="/Men">Men's Fashion</Link></li>
                 <li><Link to="/Women">Women Fashion</Link></li>
                 <li><Link to="/Badding">Bedding</Link></li> 
+                <li><Link to="/Badding">new item</Link></li> 
                 <li><a href="/">Sofa Cover</a></li>
                 <li><a href="/">Waterproof</a></li>
                 <li><a href="/">Accessories</a></li>
